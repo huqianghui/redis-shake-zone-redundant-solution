@@ -7,6 +7,7 @@
 3. 配置redis-shake
 4. 安装xinetd服务，对外提供redis-shake的进程健康检查
 
+<img width="1165" alt="Screen Shot 2022-11-16 at 10 40 33 AM" src="https://user-images.githubusercontent.com/7360524/202070488-ffdde586-0cc9-42e7-9b05-f32afd9a37ba.png">
 
 
 ## 安装三台vm和一个internal Loadbalancer，（external Load balacer可选）
